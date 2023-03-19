@@ -72,13 +72,17 @@ p {
 }
 
 /*-----Main-----*/
-.wrapper {
-    width: 80%;
-    margin: 10% auto;
+.hero {
+    width: 100%;
+    height: 1200px;
+    margin-top: -50px;
+    float: right;
 }
 
-.hero {
-    height: 100vh;
+.wrapper {
+    width: 80%;
+    margin: auto;
+    clear: both;
 }
 
 /*-----Sections-----*/
@@ -186,6 +190,9 @@ h2 {
     float: right;
     clear: both;
 } */
+
+
+
 
 /*-----Footer-----*/
 .footer {
