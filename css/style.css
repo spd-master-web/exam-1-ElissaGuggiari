@@ -86,7 +86,6 @@ p {
 }
 
 /*-----Sections-----*/
-
 .section-mythology {
     background-color: #333;
     padding: 2% 5%;
@@ -159,40 +158,6 @@ h2 {
     margin-bottom: 10px;
     text-align: center;
 }
-
-/*-----Water Tiger Year Images-----*/
-
-/* .section-watertiger img {
-    max-width: 100%;
-    height: auto;
-}
-
-.images-container {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    gap: 20px;
-    margin-top: 20px;
-}
-
-.images-container img {
-    max-width: 50%;
-} */
-
-/* .section-watertiger-imgleft {
-    float: left;
-    margin-right: 20px;
-    width: 400px;
-    height: auto;
-}
-
-.section-watertiger-imgright {
-    float: right;
-    clear: both;
-} */
-
-
-
 
 /*-----Footer-----*/
 .footer {
