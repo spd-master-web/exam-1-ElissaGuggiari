@@ -139,6 +139,39 @@ p {
     margin: 5%;
 }
 
+/* .section-watertiger-img {
+padding: 1%;
+} */
+
+
+
+
+/* .section-watertiger-imgl {
+    padding: 1%;
+    width: 100%;
+    height: auto;
+}
+
+.section-watertiger-imgr {
+    padding: 1%;
+    width: 100%;
+    height: auto;
+} */
+
+
+
+.section-watertiger-img-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .section-watertiger-img-container img {
+    max-width: 45%;
+    height: auto;
+  }
+
+
 /*-----Lucky Float-----*/
 
 .lucky-section {
